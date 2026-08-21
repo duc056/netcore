@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../TsdLessionMVC01/TsdLessionMVC01.csproj" Id="60fd031d-a858-4178-9d75-65a1ffdecd49" />
+  <Project Path="TsdLesion01/TsdLesion01.csproj" />
+  <Project Path="TsdLession01MVC/TsdLession01MVC.csproj" />
+</Solution>
