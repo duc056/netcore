@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TsdLession02Demo/TsdLession02Demo.csproj" Id="ef940fc9-39f1-4301-9348-0302536ac118" />
+  <Project Path="TsdLession02/TsdLession02.csproj" />
+</Solution>

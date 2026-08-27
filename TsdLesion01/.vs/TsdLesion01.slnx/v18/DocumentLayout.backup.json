@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{793BF77B-6AFD-44CE-A8B0-F945D6D78DF7}|TsdLession01MVC\\TsdLession01MVC.csproj|c:\\1.cntt\\net\\netcore\\tsdlesion01\\tsdlession01mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{793BF77B-6AFD-44CE-A8B0-F945D6D78DF7}|TsdLession01MVC\\TsdLession01MVC.csproj|solutionrelative:tsdlession01mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60FD031D-A858-4178-9D75-65A1FFDECD49}|..\\TsdLessionMVC01\\TsdLessionMVC01.csproj|c:\\1.cntt\\net\\netcore\\tsdlessionmvc01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1295816-839A-4A5A-AE59-A4BCD4F7C8B5}|TsdLesion01\\TsdLesion01.csproj|c:\\1.cntt\\net\\netcore\\tsdlesion01\\tsdlesion01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1295816-839A-4A5A-AE59-A4BCD4F7C8B5}|TsdLesion01\\TsdLesion01.csproj|solutionrelative:tsdlesion01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\TsdLession01MVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TsdLession01MVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4154010C-04F4-5DE7-539B-A73C3AD5427A}|TsdLesion01\\TsdLesion01.csproj|c:\\1.cntt\\net\\netcore\\tsdlesion01\\tsdlesion01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4154010C-04F4-5DE7-539B-A73C3AD5427A}|TsdLesion01\\TsdLesion01.csproj|solutionrelative:tsdlesion01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +21,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\TsdLession01MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TsdLession01MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\TsdLession01MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TsdLession01MVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLessionMVC01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\TsdLessionMVC01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLessionMVC01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\TsdLessionMVC01\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-21T12:25:18.929Z",
+              "WhenOpened": "2026-08-21T12:54:48.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\TsdLession01MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TsdLession01MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\TsdLession01MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TsdLession01MVC\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T12:25:18.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesion01\\TsdLesion01\\Program.cs",
               "RelativeDocumentMoniker": "TsdLesion01\\Program.cs",
@@ -48,7 +66,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Get Product";
+}
+<h1>Get Product</h1>
+<h2>Dữ liệu lấy từ ViewData</h2>
+@{
+	var ProductVD = ViewData["ProductVD"] as TsdLession02Demo.Models.TsdProduct;
+}
+<div class="alert alert-danger">
+		<p>ID: @ProductVD.ProductId</p>
+		<p>Tên: @ProductVD.ProductName</p>
+		<p>Giá: @ProductVD.Price</p>
+		<p>Năm phát hành: @ProductVD.YearRelease</p>
+</div>
+<h2>Dữ Liệu lấy từ ViewBag</h2>
+<div class="alert alert-info">
+		<p>ID: @ViewBag.ProductVB.ProductId</p>
+		<p>Tên: @ViewBag.ProductVB.ProductName</p>
+		<p>Giá: @ViewBag.ProductVB.Price</p>
+		<p>Năm phát hành: @ViewBag.ProductVB.YearRelease</p>
+</div>
