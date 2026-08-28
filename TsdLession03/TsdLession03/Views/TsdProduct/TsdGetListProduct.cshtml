@@ -1,0 +1,51 @@
+﻿@model List<TsdLession03.Models.TsdProduct>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+
+    int stt = 0;
+}
+
+<div class="card">
+    <div class="card-header">
+        <h1>@ViewData["Title"]</h1>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Year</th>
+                    <th>Price</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    stt++;
+                    <tr>
+                        <td>@stt</td>
+                        <td>@product.TsdProductId</td>
+                        <td>@product.TsdProductName</td>
+                        <td>@product.TsdProductRelease</td>
+                        <td>@product.TsdPrice</td>
+                        <td>
+                            <a href="#">Xem</a>
+                            <a href="#">Sửa</a>
+                            <a href="#">Xóa</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th colspan="6">Tổng số sản phẩm: @Model.Count</th>
+                </tr>
+            </table>
+        </div>
+    </div>
