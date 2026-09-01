@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\1.CNTT\\NET\\New folder\\TsdLession02\\TsdLession02\\TsdLession02.csproj": {}
+    "C:\\1.CNTT\\NET\\netcore\\TsdLession02\\TsdLession02\\TsdLession02.csproj": {}
   },
   "projects": {
-    "C:\\1.CNTT\\NET\\New folder\\TsdLession02\\TsdLession02\\TsdLession02.csproj": {
+    "C:\\1.CNTT\\NET\\netcore\\TsdLession02\\TsdLession02\\TsdLession02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1.CNTT\\NET\\New folder\\TsdLession02\\TsdLession02\\TsdLession02.csproj",
+        "projectUniqueName": "C:\\1.CNTT\\NET\\netcore\\TsdLession02\\TsdLession02\\TsdLession02.csproj",
         "projectName": "TsdLession02",
-        "projectPath": "C:\\1.CNTT\\NET\\New folder\\TsdLession02\\TsdLession02\\TsdLession02.csproj",
+        "projectPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession02\\TsdLession02\\TsdLession02.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\1.CNTT\\NET\\New folder\\TsdLession02\\TsdLession02\\obj\\",
+        "outputPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession02\\TsdLession02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

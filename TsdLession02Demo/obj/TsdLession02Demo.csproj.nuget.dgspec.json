@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\1.CNTT\\NET\\New folder\\TsdLession02Demo\\TsdLession02Demo.csproj": {}
+    "C:\\1.CNTT\\NET\\netcore\\TsdLession02Demo\\TsdLession02Demo.csproj": {}
   },
   "projects": {
-    "C:\\1.CNTT\\NET\\New folder\\TsdLession02Demo\\TsdLession02Demo.csproj": {
+    "C:\\1.CNTT\\NET\\netcore\\TsdLession02Demo\\TsdLession02Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1.CNTT\\NET\\New folder\\TsdLession02Demo\\TsdLession02Demo.csproj",
+        "projectUniqueName": "C:\\1.CNTT\\NET\\netcore\\TsdLession02Demo\\TsdLession02Demo.csproj",
         "projectName": "TsdLession02Demo",
-        "projectPath": "C:\\1.CNTT\\NET\\New folder\\TsdLession02Demo\\TsdLession02Demo.csproj",
+        "projectPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession02Demo\\TsdLession02Demo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\1.CNTT\\NET\\New folder\\TsdLession02Demo\\obj\\",
+        "outputPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession02Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
