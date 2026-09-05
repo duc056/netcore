@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\home\\razorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\home\\razorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RazorCode.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Home\\RazorCode.cshtml",
+              "RelativeDocumentMoniker": "TsdLession05Views\\Views\\Home\\RazorCode.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Home\\RazorCode.cshtml*",
+              "RelativeToolTip": "TsdLession05Views\\Views\\Home\\RazorCode.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-05T02:09:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TsdLession05Views\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TsdLession05Views\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-05T02:02:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TsdLession05Views\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TsdLession05Views\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-05T01:56:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TsdLession05Views\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TsdLession05Views\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA2wB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T01:54:00.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
