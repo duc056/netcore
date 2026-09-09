@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\home\\razorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\home\\razorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\home\\razorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\home\\razorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE0DEFD1-EFE3-4730-877D-FB49D0EBE3F6}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|c:\\1.cntt\\net\\netcore\\tsdlession05views\\tsdlession05views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31329330-894F-1536-D941-E1DB39D4F0B0}|TsdLession05Views\\TsdLession05Views.csproj|solutionrelative:tsdlession05views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "TsdLession05Views\\Views\\Home\\RazorCode.cshtml",
               "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Home\\RazorCode.cshtml",
               "RelativeToolTip": "TsdLession05Views\\Views\\Home\\RazorCode.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-05T02:09:31.051Z",
               "EditorCaption": ""
@@ -55,12 +55,11 @@
               "RelativeToolTip": "TsdLession05Views\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-05T02:02:44.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T02:02:44.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "TsdLession05Views\\Views\\Home\\About.cshtml",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "TsdLession05Views\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-05T01:56:02.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T01:56:02.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession05Views\\TsdLession05Views\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TsdLession05Views\\Controllers\\HomeController.cs",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "TsdLession05Views\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA2wB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T01:54:00.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T01:54:00.821Z"
             }
           ]
         }
