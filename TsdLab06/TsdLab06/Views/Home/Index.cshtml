@@ -1,0 +1,62 @@
+﻿@model List<TsdLab06.Models.Product>
+
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-md-3">
+
+            @await Html.PartialAsync("_CategoryPartial")
+
+        </div>
+
+
+        <div class="col-md-9">
+
+            <div class="title">
+                Sản phẩm mới nhất
+            </div>
+
+            <div class="row">
+
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-4 mb-4">
+
+                        <div class="product">
+
+                            <img src="@item.Image"
+                                 alt="@item.Name"
+                                 class="img-fluid" />
+
+                            <h5>
+                                @item.Name
+                            </h5>
+
+                            <p>
+                                Giá: @item.Price.ToString("N0") VNĐ
+                            </p>
+
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="row">
+
+        <div class="col-md-12">
+
+            @await Component.InvokeAsync("HotProduct")
+
+        </div>
+
+    </div>
+
+</div>
