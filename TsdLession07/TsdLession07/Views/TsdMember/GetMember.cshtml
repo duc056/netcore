@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Thông  tin member";
+    var member = Model as TsdLession07.Models.DataModels.TsdMember;
+}
+
+<div class="alert alert-info">
+    <h1>@ViewData["Title"]</h1>
+    @* <p>Member id: @ViewBag.Member.TsdMemberId</p>
+    <p>UserName: @ViewBag.Member.TsdUserName</p>
+    <p>UserName: @ViewBag.Member.TsdPassword</p>
+    <p>UserName: @ViewBag.Member.TsdFullName</p>
+    <p>UserName: @ViewBag.Member.TsdEmail</p> *@
+
+    <p>Memberid: @member.TsdMemberId</p>
+    <p>UserName: @member.TsdUserName</p>
+    <p>UserName: @member.TsdPassword</p>
+    <p>UserName: @member.TsdFullName</p>
+    <p>UserName: @member.TsdEmail</p>
+</div>
