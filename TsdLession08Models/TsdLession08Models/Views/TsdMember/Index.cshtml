@@ -1,0 +1,63 @@
+﻿@model IEnumerable<TsdLession08Models.Models.TsdMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<div class="card p-3">
+    <div class="card-header">
+        <h1>@ViewData["Title"]</h1> 
+        <a asp-action="TsdCreate">Thêm  mới</a>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TsdMemberId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TsdUserName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TsdPassword)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TsdFullName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TsdEmail)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TsdMemberId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TsdUserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TsdPassword)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TsdFullName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TsdEmail)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Sửa", "TsdEdit", new {  id=item.TsdMemberId }) |
+                        @Html.ActionLink("Xem chi tiết", "TsdDetails", new { id = item.TsdMemberId }) |
+                            @Html.ActionLink("Xóa", "TsdDelete", new { id = item.TsdMemberId })
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>

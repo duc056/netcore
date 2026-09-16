@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\tsdmember\\tsddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\tsdmember\\tsddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\controllers\\tsdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\controllers\\tsdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\tsdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\tsdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\controllers\\tsdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\controllers\\tsdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\models\\tsdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\models\\tsdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\tsdhome\\tsdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\tsdhome\\tsdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\tsdmember\\tsdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\tsdmember\\tsdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\tsdmember\\tsddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\tsdmember\\tsddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|c:\\1.cntt\\net\\netcore\\tsdlession08models\\tsdlession08models\\views\\tsdmember\\tsdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55831A2-2813-6555-0E31-767B9DC05962}|TsdLession08Models\\TsdLession08Models.csproj|solutionrelative:tsdlession08models\\views\\tsdmember\\tsdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Program.cs",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Program.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Program.cs",
+              "RelativeToolTip": "TsdLession08Models\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:21:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "TsdLession08Models\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-16T04:19:53.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TsdAbout.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdHome\\TsdAbout.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\TsdHome\\TsdAbout.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdHome\\TsdAbout.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\TsdHome\\TsdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T04:10:15.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TsdEdit.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdEdit.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\TsdMember\\TsdEdit.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdEdit.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\TsdMember\\TsdEdit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T04:08:40.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TsdDetails.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdDetails.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\TsdMember\\TsdDetails.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdDetails.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\TsdMember\\TsdDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T04:07:04.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TsdDelete.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdDelete.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\TsdMember\\TsdDelete.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdDelete.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\TsdMember\\TsdDelete.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T04:05:26.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TsdCreate.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdCreate.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\TsdMember\\TsdCreate.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\TsdCreate.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\TsdMember\\TsdCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T04:02:19.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\TsdMember\\Index.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\TsdMember\\Index.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\TsdMember\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T04:00:20.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TsdLession08Models\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T03:58:45.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TsdMember.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Models\\TsdMember.cs",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Models\\TsdMember.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Models\\TsdMember.cs",
+              "RelativeToolTip": "TsdLession08Models\\Models\\TsdMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:53:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TsdMemberController.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Controllers\\TsdMemberController.cs",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Controllers\\TsdMemberController.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Controllers\\TsdMemberController.cs",
+              "RelativeToolTip": "TsdLession08Models\\Controllers\\TsdMemberController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwGgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:52:14.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TsdHomeController.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Controllers\\TsdHomeController.cs",
+              "RelativeDocumentMoniker": "TsdLession08Models\\Controllers\\TsdHomeController.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLession08Models\\TsdLession08Models\\Controllers\\TsdHomeController.cs",
+              "RelativeToolTip": "TsdLession08Models\\Controllers\\TsdHomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:46:40.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
