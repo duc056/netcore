@@ -1,0 +1,64 @@
+﻿@model IEnumerable<TsdLesson09Annotation.Models.DataModel.TsdMember>
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdBirthday)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.TsdUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdPhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdBirthday)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TsdMemberId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TsdMemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TsdMemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

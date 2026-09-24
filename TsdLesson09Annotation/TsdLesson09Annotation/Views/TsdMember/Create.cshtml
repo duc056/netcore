@@ -1,0 +1,69 @@
+﻿@model TsdLesson09Annotation.Models.DataViewModels.TsdMemberRegister
+
+@{
+    ViewData["Title"] = "Đăng ký thành viên";
+}
+
+<h1>Đăng ký thành viên</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TsdUserName" class="control-label"></label>
+                <input asp-for="TsdUserName" class="form-control" />
+                <span asp-validation-for="TsdUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TsdPassword" class="control-label"></label>
+                <input asp-for="TsdPassword" class="form-control" />
+                <span asp-validation-for="TsdPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TsdEmail" class="control-label"></label>
+                <input asp-for="TsdEmail" class="form-control" />
+                <span asp-validation-for="TsdEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TsdPhoneNumber" class="control-label"></label>
+                <input asp-for="TsdPhoneNumber" class="form-control" />
+                <span asp-validation-for="TsdPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TsdFullName" class="control-label"></label>
+                <input asp-for="TsdFullName" class="form-control" />
+                <span asp-validation-for="TsdFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TsdBirthday" class="control-label"></label>
+                <input asp-for="TsdBirthday" class="form-control" />
+                <span asp-validation-for="TsdBirthday" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+                Đăng ký
+            </button>
+
+            <a asp-action="Index" class="btn btn-secondary">
+                Quay lại
+            </a>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
