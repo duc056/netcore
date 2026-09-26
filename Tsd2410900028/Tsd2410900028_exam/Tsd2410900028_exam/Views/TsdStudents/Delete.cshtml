@@ -1,0 +1,101 @@
+@model Tsd2410900028_exam.Models.TsdStudent
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-danger">XÓA SINH VIÊN</h1>
+
+<h3 class="text-danger">Bạn có chắc chắn muốn xóa sinh viên này không?</h3>
+
+<div class="card shadow-sm mt-3">
+    <div class="card-body">
+
+        <h4>TsdStudent</h4>
+        <hr />
+
+        <dl class="row">
+            <dt class="col-sm-3">
+                Họ và tên
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.TsdName)
+            </dd>
+        </dl>
+
+        <dl class="row">
+            <dt class="col-sm-3">
+                Giới tính
+            </dt>
+            <dd class="col-sm-9">
+                @if (Model.TsdGender)
+                {
+                    <span class="badge bg-primary">Nam</span>
+                }
+                else
+                {
+                    <span class="badge bg-danger">Nữ</span>
+                }
+            </dd>
+        </dl>
+
+        <dl class="row">
+            <dt class="col-sm-3">
+                Ngày sinh
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.TsdBirthDay)
+            </dd>
+        </dl>
+
+        <dl class="row">
+            <dt class="col-sm-3">
+                Email
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.TsdEmail)
+            </dd>
+        </dl>
+
+        <dl class="row">
+            <dt class="col-sm-3">
+                Số điện thoại
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.TsdPhone)
+            </dd>
+        </dl>
+
+        <dl class="row">
+            <dt class="col-sm-3">
+                Trạng thái
+            </dt>
+            <dd class="col-sm-9">
+                @if (Model.TsdActive)
+                {
+                    <span class="badge bg-success">Hoạt động</span>
+                }
+                else
+                {
+                    <span class="badge bg-secondary">Không hoạt động</span>
+                }
+            </dd>
+        </dl>
+
+        <hr />
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+
+            <input type="submit"
+                   value="Xác nhận xóa"
+                   class="btn btn-danger" />
+
+            <a asp-action="Index"
+               class="btn btn-secondary">
+                Quay lại danh sách
+            </a>
+        </form>
+
+    </div>
+</div>

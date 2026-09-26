@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\controllers\\tsdmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\controllers\\tsdmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\controllers\\tsdmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\controllers\\tsdmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\models\\tsdk24cnt1lesson10efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\models\\tsdk24cnt1lesson10efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\models\\tsdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\models\\tsdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\models\\tsdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\models\\tsdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1FBDCF1-53F6-49CE-984F-55038B15510B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|c:\\1.cntt\\net\\netcore\\tsdlesson10efdbfirst\\tsdlesson10efdbfirst\\models\\tsdk24cnt1lesson10efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F12652-3E36-5539-5FCB-3C02A62CBC7B}|TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst.csproj|solutionrelative:tsdlesson10efdbfirst\\models\\tsdk24cnt1lesson10efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst\\Program.cs",
               "RelativeDocumentMoniker": "TsdLesson10EFDbFirst\\Program.cs",
               "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst\\Program.cs",
               "RelativeToolTip": "TsdLesson10EFDbFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T16:44:24.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst\\appsettings.json",
               "RelativeDocumentMoniker": "TsdLesson10EFDbFirst\\appsettings.json",
@@ -67,8 +63,7 @@
               "RelativeToolTip": "TsdLesson10EFDbFirst\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-25T16:43:35.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T16:43:35.253Z"
             },
             {
               "$type": "Document",
@@ -80,8 +75,7 @@
               "RelativeToolTip": "TsdLesson10EFDbFirst\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T16:42:37.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T16:42:37.929Z"
             },
             {
               "$type": "Document",
@@ -91,14 +85,14 @@
               "RelativeDocumentMoniker": "TsdLesson10EFDbFirst\\Controllers\\TsdMembersController.cs",
               "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst\\Controllers\\TsdMembersController.cs",
               "RelativeToolTip": "TsdLesson10EFDbFirst\\Controllers\\TsdMembersController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAcwIgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T16:41:52.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TsdMember.cs",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst\\Models\\TsdMember.cs",
               "RelativeDocumentMoniker": "TsdLesson10EFDbFirst\\Models\\TsdMember.cs",
@@ -106,12 +100,11 @@
               "RelativeToolTip": "TsdLesson10EFDbFirst\\Models\\TsdMember.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T16:40:11.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T16:40:11.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TsdK24cnt1lesson10EfdbContext.cs",
               "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdLesson10EFDbFirst\\TsdLesson10EFDbFirst\\Models\\TsdK24cnt1lesson10EfdbContext.cs",
               "RelativeDocumentMoniker": "TsdLesson10EFDbFirst\\Models\\TsdK24cnt1lesson10EfdbContext.cs",
@@ -119,8 +112,7 @@
               "RelativeToolTip": "TsdLesson10EFDbFirst\\Models\\TsdK24cnt1lesson10EfdbContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T16:38:37.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T16:38:37.236Z"
             }
           ]
         }

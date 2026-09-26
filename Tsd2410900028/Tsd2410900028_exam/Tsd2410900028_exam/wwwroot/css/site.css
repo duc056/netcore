@@ -1,0 +1,73 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.student-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+    .student-header h2 {
+        font-weight: 700;
+        margin-bottom: 5px;
+    }
+
+    .student-header p {
+        color: #6c757d;
+        margin-bottom: 0;
+    }
+
+.student-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+    .student-card .card-body {
+        padding: 25px;
+    }
+
+    .student-card table {
+        margin-bottom: 0;
+    }
+
+    .student-card thead th {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .student-card tbody td {
+        vertical-align: middle;
+    }
+
+    .student-card tbody tr:hover {
+        background-color: #f8f9fa;
+    }
+
+    .student-card .btn {
+        margin: 2px;
+    }
+
+.badge {
+    padding: 7px 10px;
+}

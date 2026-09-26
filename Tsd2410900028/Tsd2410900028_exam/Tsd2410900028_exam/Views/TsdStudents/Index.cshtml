@@ -1,0 +1,88 @@
+@model IEnumerable<Tsd2410900028_exam.Models.TsdStudent>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center mb-4">DANH SÁCH SINH VIÊN</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">+ Thêm sinh viên</a>
+</p>
+
+<table class="table table-bordered table-hover shadow-sm">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TsdActive)
+            </th>
+            <th class="text-center">Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.TsdName)
+            </td>
+            <td>
+                @if (item.TsdGender)
+                {
+                    <span class="badge bg-primary">Nam</span>
+                }
+                else
+                {
+                    <span class="badge bg-danger">Nữ</span>
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TsdPhone)
+            </td>
+            <td>
+                @if (item.TsdActive)
+                {
+                    <span class="badge bg-success">Hoạt động</span>
+                }
+                else
+                {
+                    <span class="badge bg-secondary">Không hoạt động</span>
+                }
+            </td>
+            <td class="text-center">
+                <a asp-action="Edit"
+                   asp-route-id="@item.Id"
+                   class="btn btn-warning btn-sm">Sửa</a>
+
+                <a asp-action="Details"
+                   asp-route-id="@item.Id"
+                   class="btn btn-info btn-sm">Chi tiết</a>
+
+                <a asp-action="Delete"
+                   asp-route-id="@item.Id"
+                   class="btn btn-danger btn-sm">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
