@@ -1,0 +1,96 @@
+@model IEnumerable<TsdNetCoreLab6_EF.Models.TsdCategory>
+
+@{
+    ViewData["Title"] = "Danh sách danh mục";
+}
+
+<h2>Danh sách danh mục</h2>
+
+<p>
+    <a class="btn btn-sm btn-success"
+       asp-action="TsdCreate">
+        Thêm mới danh mục
+    </a>
+</p>
+
+<table class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+
+            <th>
+                Hành động
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var tsdItem in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => tsdItem.Name)
+                </td>
+
+                <td>
+                    @if (tsdItem.Status == 1)
+                    {
+                        <span class="text-success">
+                            Hiển thị
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">
+                            Khóa
+                        </span>
+                    }
+                </td>
+
+                <td>
+                    @Html.DisplayFor(
+                        modelItem => tsdItem.CreatedDate
+                    )
+                </td>
+
+                <td>
+
+                    <a class="btn btn-sm btn-primary"
+                       asp-action="TsdEdit"
+                       asp-route-tsdId="@tsdItem.Id">
+                        Sửa
+                    </a>
+
+                    <a class="btn btn-sm btn-info"
+                       asp-action="TsdDetails"
+                       asp-route-tsdId="@tsdItem.Id">
+                        Chi tiết
+                    </a>
+
+                    <a class="btn btn-sm btn-danger"
+                       asp-action="TsdDelete"
+                       asp-route-tsdId="@tsdItem.Id">
+                        Xóa
+                    </a>
+
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

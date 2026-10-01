@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\views\\tsdcategories\\tsddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\views\\tsdcategories\\tsddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\views\\tsdcategories\\tsddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\views\\tsdcategories\\tsddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\views\\tsdcategories\\tsdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\views\\tsdcategories\\tsdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\views\\tsdcategories\\tsdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\views\\tsdcategories\\tsdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\views\\tsdcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\views\\tsdcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\controllers\\tsdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\controllers\\tsdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\models\\tsdcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\models\\tsdcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\models\\tsdproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\models\\tsdproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\entities\\tsdappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\entities\\tsdappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|c:\\1.cntt\\net\\netcore\\tsdnetcorelab6_ef\\tsdnetcorelab6_ef\\migrations\\20260930011822_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA367BA-2EC3-D39B-CEDE-C728A1223EB5}|TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF.csproj|solutionrelative:tsdnetcorelab6_ef\\migrations\\20260930011822_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T15:59:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TsdEdit.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdEdit.cshtml",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdEdit.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdEdit.cshtml",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdEdit.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T01:45:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TsdCreate.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdCreate.cshtml",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdCreate.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdCreate.cshtml",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdCreate.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T01:44:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\Index.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\Index.cshtml",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\Index.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T01:44:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TsdCategoriesController.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Controllers\\TsdCategoriesController.cs",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Controllers\\TsdCategoriesController.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Controllers\\TsdCategoriesController.cs",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Controllers\\TsdCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:38:34.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TsdCategory.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Models\\TsdCategory.cs",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Models\\TsdCategory.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Models\\TsdCategory.cs",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Models\\TsdCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:52:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TsdDetails.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDetails.cshtml",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDetails.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDetails.cshtml",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDetails.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:20:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TsdDelete.cshtml",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDelete.cshtml",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDelete.cshtml",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDelete.cshtml",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Views\\TsdCategories\\TsdDelete.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:20:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TsdProducts.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Models\\TsdProducts.cs",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Models\\TsdProducts.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Models\\TsdProducts.cs",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Models\\TsdProducts.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:54:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TsdAppDbContext.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Entities\\TsdAppDbContext.cs",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Entities\\TsdAppDbContext.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Entities\\TsdAppDbContext.cs",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Entities\\TsdAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:05:49.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260930011822_v1.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Migrations\\20260930011822_v1.cs",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Migrations\\20260930011822_v1.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Migrations\\20260930011822_v1.cs",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Migrations\\20260930011822_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:18:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\appsettings.json",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\appsettings.json",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\appsettings.json",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T00:49:27.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Program.cs",
+              "RelativeDocumentMoniker": "TsdNetCoreLab6_EF\\Program.cs",
+              "ToolTip": "C:\\1.CNTT\\NET\\netcore\\TsdNetCoreLab6_EF\\TsdNetCoreLab6_EF\\Program.cs",
+              "RelativeToolTip": "TsdNetCoreLab6_EF\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:49:17.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

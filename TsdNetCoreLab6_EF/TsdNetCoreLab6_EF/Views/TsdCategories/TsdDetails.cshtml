@@ -1,0 +1,73 @@
+@model TsdNetCoreLab6_EF.Models.TsdCategory
+
+@{
+    ViewData["Title"] = "Chi tiết danh mục";
+}
+
+<h2>Chi tiết danh mục</h2>
+
+<hr />
+
+<div>
+
+    <dl class="row">
+
+        <dt class="col-sm-3">
+            Tên danh mục
+        </dt>
+
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+
+        <dt class="col-sm-3">
+            Trạng thái
+        </dt>
+
+        <dd class="col-sm-9">
+
+            @if (Model.Status == 1)
+            {
+                <span class="text-success">
+                    Hiển thị
+                </span>
+            }
+            else
+            {
+                <span class="text-danger">
+                    Khóa
+                </span>
+            }
+
+        </dd>
+
+
+        <dt class="col-sm-3">
+            Ngày tạo
+        </dt>
+
+        <dd class="col-sm-9">
+            @Html.DisplayFor(
+                model => model.CreatedDate
+            )
+        </dd>
+
+    </dl>
+
+</div>
+
+<div>
+
+    <a class="btn btn-primary"
+       asp-action="TsdEdit"
+       asp-route-tsdId="@Model.Id">
+        Sửa
+    </a>
+
+    <a class="btn btn-secondary"
+       asp-action="Index">
+        Quay lại
+    </a>
+
+</div>
